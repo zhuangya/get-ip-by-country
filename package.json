@@ -1,0 +1,42 @@
+{
+  "name": "get-ips-by-country",
+  "version": "0.0.1",
+  "description": "get ips/ip range by country code",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "bin": {
+    "gip": "./bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuangya/get-ip-by-country"
+  },
+  "bugs": {
+    "url": "https://github.com/zhuangya/get-ip-by-country/issues"
+  },
+  "keywords": [
+    "ip",
+    "country",
+    "cidr"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangya/get-ip-by-country/issues"
+  },
+  "preferGlobal": true,
+  "homepage": "https://github.com/zhuangya/get-ip-by-country#readme",
+  "dependencies": {
+    "meow": "^3.7.0",
+    "ora": "^0.2.0",
+    "request": "^2.69.0",
+    "split": "^1.0.0",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.13.0",
+    "nock": "^7.2.2"
+  }
+}
