@@ -1,6 +1,6 @@
 {
   "name": "get-ips-by-country",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "get ips/ip range by country code",
   "main": "index.js",
   "scripts": {
