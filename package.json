@@ -29,6 +29,7 @@
   "preferGlobal": true,
   "homepage": "https://github.com/zhuangya/get-ip-by-country#readme",
   "dependencies": {
+    "debug": "^2.2.0",
     "meow": "^3.7.0",
     "ora": "^0.2.0",
     "request": "^2.69.0",
