@@ -1,5 +1,7 @@
 #GIP
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zhuangya/get-ip-by-country.svg)](https://greenkeeper.io/)
+
 
 ## 简介
 
