@@ -29,15 +29,15 @@
   "preferGlobal": true,
   "homepage": "https://github.com/zhuangya/get-ip-by-country#readme",
   "dependencies": {
-    "debug": "^2.2.0",
-    "meow": "^3.7.0",
-    "ora": "^0.2.0",
+    "debug": "^4.1.1",
+    "meow": "^5.0.0",
+    "ora": "^3.4.0",
     "request": "^2.69.0",
     "split": "^1.0.0",
-    "through2": "^2.0.1"
+    "through2": "^3.0.1"
   },
   "devDependencies": {
-    "ava": "^0.13.0",
-    "nock": "^7.2.2"
+    "ava": "^2.1.0",
+    "nock": "^10.0.6"
   }
 }
